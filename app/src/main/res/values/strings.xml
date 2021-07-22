@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">あいさつアプリ</string>
+    <string name="button_text">時間入力</string>
+</resources>
